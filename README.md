@@ -5,6 +5,7 @@
 - 💬 Ask me about my Notesite and give me some advice!
 - 📫 How to reach me: amorstep7@gmail.com
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thinking-builder)](https://git.io/streak-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Thinking-builder&layout=donut)](https://github.com/anuraghazra/github-readme-stats)
+<p align = "center">
+  <img src = "https://github-readme-stats.vercel.app/api?username=Thinking-builder&show_icons=true&theme=tokyonight&line_height=27">
+  <img src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Thinking-builder&theme=radical">
+</p>
