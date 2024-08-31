@@ -5,3 +5,4 @@
 - 💬 Ask me about my Notesite and give me some advice!
 - 📫 How to reach me: amorstep7@gmail.com
 
+[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Thinking-builder)](https://git.io/streak-stats)
