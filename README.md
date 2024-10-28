@@ -1,4 +1,3 @@
-## Hi there 👋
 
 - 🔭 I’m currently working on **python** and **Data Structure**.
 - 🌱 I’m currently learning **Deep learning** and **DE-CF**.
