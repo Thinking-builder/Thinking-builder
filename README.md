@@ -26,7 +26,7 @@
 
 ### Full Stack Projects
 
-[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://github.com/adamalston/v2)
+[![](https://img.shields.io/badge/-🧬%20My%20Website-000)](https://thinking-builder.github.io/NoteSite/)
 
 
 
