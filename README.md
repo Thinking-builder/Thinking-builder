@@ -5,7 +5,7 @@
 - 💬 Ask me about my Notesite and give me some advice!
 - 📫 How to reach me: amorstep7@gmail.com
 
-![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinking-builder&theme=tokyonight)
+![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinking-builder&theme=nord_dark)
 
 ### Mastered Languages
 
