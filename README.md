@@ -61,6 +61,10 @@
         <td style="padding: 10px;">2024年9月29日</td>
         <td style="padding: 10px;">新增了 <strong>工科试验班经验分享</strong> 栏目，并添加了大一经验分享。</td>
     </tr>
+    <tr>
+        <td style="padding: 10px;">2024年7月28日</td>
+        <td style="padding: 10px;">NoteSite正式开始从静态网页发布为动态网页</td>
+    </tr>
 </table>
 
 
