@@ -50,6 +50,10 @@
         <th style="padding: 10px;">🛠️ 更新内容</th>
     </tr>
     <tr>
+        <td style="padding: 10px;">2024年12月20日</td>
+        <td style="padding: 10px;">“<span style="font-weight: bold;">CS Tech - Assembly专栏</span>”更新上传了汇编语言原理模块4讲和MASM32入门模块3讲。</td>
+    </tr>
+    <tr>
         <td style="padding: 10px;">2024年10月28日</td>
         <td style="padding: 10px;">更新了笔记网站内容的布局架构，修正了线性代数笔记的图片不显示和公式错乱问题。</td>
     </tr>
