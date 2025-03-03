@@ -11,18 +11,6 @@
 ![Summary](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Thinking-builder&theme=nord_dark)
 
 
-### Favourite Tools
-![Chatgpt](https://img.shields.io/badge/ChatGPT-74aa9c?style=for-the-badge&logo=openai&logoColor=white)
-![Pytorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
-![Vim](https://img.shields.io/badge/VIM-%2311AB00.svg?&style=for-the-badge&logo=vim&logoColor=white)
-![vscode](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![overleaf](https://img.shields.io/badge/Overleaf-47A141?style=for-the-badge&logo=Overleaf&logoColor=white)
-![notion](https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=notion&logoColor=white)
-![Pexels](https://img.shields.io/badge/Pexels-05A081?style=for-the-badge&logo=pexels&logoColor=white)
-![Conda](https://img.shields.io/badge/conda-342B029.svg?&style=for-the-badge&logo=anaconda&logoColor=white)
-![Git](https://img.shields.io/badge/git-F05032.svg?&style=for-the-badge&logo=git&logoColor=white)
-
-
 ### Full Stack Projects
 
 <table style="width: 100%; border-collapse: collapse; text-align: center;">
@@ -36,6 +24,10 @@
     <tr>
         <th style="padding: 10px;">🗓️ 日期</th>
         <th style="padding: 10px;">🛠️ 更新内容</th>
+    </tr>
+    <tr>
+        <td style="padding: 10px;">2025年3月3日</td>
+        <td style="padding: 10px;">“<span style="font-weight: bold;">CS Tech - Programming Language专栏</span>”更新上传了SQL主要常用的DDL、DML、DQL知识。</td>
     </tr>
     <tr>
         <td style="padding: 10px;">2024年12月20日</td>
