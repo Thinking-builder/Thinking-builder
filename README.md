@@ -1,4 +1,5 @@
 
+![Gif](./Notification-[remix].gif)
 
 - 🔭 I’m currently working on **python** and **Data Structure**.
 - 🌱 I’m currently deep into  **Deep learning** and **Linear-Algebra**.
